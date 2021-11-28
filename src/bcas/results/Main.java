@@ -14,5 +14,6 @@ public class Main {
         System.out.println("Marks 3 :"+m3);
         System.out.println("Total :"+total);
         System.out.println("Average :"+avg);
+        System.out.println("hi");
     }
 }
